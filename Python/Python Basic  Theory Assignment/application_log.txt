@@ -1,0 +1,4 @@
+2022-08-14 15:26:36,852 - DEBUG -Data Inserted Successfully
+2022-08-14 15:26:36,853 - DEBUG -Connection closed Successfully
+2022-08-14 15:28:35,119 - DEBUG -Data Inserted Successfully
+2022-08-14 15:28:35,120 - DEBUG -Connection closed Successfully
